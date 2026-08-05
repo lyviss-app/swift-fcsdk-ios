@@ -126,7 +126,7 @@ let package = Package(
             targets: ["my-framework-kit"]),
     ],
     dependencies: [
-        .package(name: "FCSDKiOS", url: "https://github.com/cbajapan/FCSDKiOS.git", .exact("4.0.0"))
+        .package(name: "FCSDKiOS", url: "https://github.com/lyviss-app/FCSDKiOS.git", .exact("4.0.0"))
     ],
     targets: [
         .target(
