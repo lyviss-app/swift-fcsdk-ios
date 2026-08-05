@@ -31,62 +31,62 @@ If you are having issues on an unsupported operating system, please either upgra
 We are happy to introduce *DocC* documentation for SwiftFCSDKiOS. Simply build the documentation with **Command + Control + Shift + D** in your app and have all the documentation that you need right in Xcode.
 
 ## Version Changes
-[Version 4.3.6 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.6.md 'Version 4.3.6')
+[Version 4.3.6 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.6.md 'Version 4.3.6')
 
-[Version 4.3.5 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.5.md 'Version 4.3.5')
+[Version 4.3.5 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.5.md 'Version 4.3.5')
 
-[Version 4.3.4 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.4.md 'Version 4.3.4')
+[Version 4.3.4 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.4.md 'Version 4.3.4')
 
-[Version 4.3.3 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.3.md 'Version 4.3.3')
+[Version 4.3.3 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.3.md 'Version 4.3.3')
 
-[Version 4.3.2 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.2.md 'Version 4.3.2')
+[Version 4.3.2 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.2.md 'Version 4.3.2')
 
-[Version 4.3.1 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.1.md 'Version 4.3.1')
+[Version 4.3.1 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.1.md 'Version 4.3.1')
 
-[Version 4.3.0 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.0.md 'Version 4.3.0')
+[Version 4.3.0 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.3.0.md 'Version 4.3.0')
 
-[Version 4.2.9 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.9.md 'Version 4.2.9')
+[Version 4.2.9 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.9.md 'Version 4.2.9')
 
-[Version 4.2.8 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.8.md 'Version 4.2.8')
+[Version 4.2.8 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.8.md 'Version 4.2.8')
 
-[Version 4.2.7 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.7.md 'Version 4.2.7')
+[Version 4.2.7 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.7.md 'Version 4.2.7')
 
-[Version 4.2.6 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.6.md 'Version 4.2.6')
+[Version 4.2.6 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.6.md 'Version 4.2.6')
 
-[Version 4.2.5 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.5.md 'Version 4.2.5')
+[Version 4.2.5 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.5.md 'Version 4.2.5')
 
-[Version 4.2.4 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.4.md 'Version 4.2.4')
+[Version 4.2.4 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.4.md 'Version 4.2.4')
 
-[Version 4.2.3 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.3.md 'Version 4.2.3')
+[Version 4.2.3 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.3.md 'Version 4.2.3')
 
-[Version 4.2.2 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.2.md 'Version 4.2.2')
+[Version 4.2.2 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.2.md 'Version 4.2.2')
 
-[Version 4.2.1 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.1.md 'Version 4.2.1')
+[Version 4.2.1 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.1.md 'Version 4.2.1')
 
-[Version 4.2.0 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.0.md 'Version 4.2.0')
+[Version 4.2.0 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.2.0.md 'Version 4.2.0')
 
-[Version 4.1.0 ](https://github.com/cbajapan/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.1.0.md 'Version 4.1.0')
+[Version 4.1.0 ](https://github.com/lyviss-app/swift-fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Version-4.1.0.md 'Version 4.1.0')
 
 ## Getting Started
 **Please read our DocC Documentation for more information**
 
-[Getting Started](https://github.com/cbajapan/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/GettingStarted.md 'Getting Started')
+[Getting Started](https://github.com/lyviss-app/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/GettingStarted.md 'Getting Started')
 
-[Authentication](https://github.com/cbajapan/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Authentication.md 'Authentication')
+[Authentication](https://github.com/lyviss-app/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/Authentication.md 'Authentication')
 
-[Creating a Session](https://github.com/cbajapan/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/CreatingSession.md 'Creating Session')
+[Creating a Session](https://github.com/lyviss-app/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/CreatingSession.md 'Creating Session')
 
-[Video Calls](https://github.com/cbajapan/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/VideoCalls.md 'Video Calls')
+[Video Calls](https://github.com/lyviss-app/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/VideoCalls.md 'Video Calls')
 
-[FCSDKUI](https://github.com/cbajapan/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/FCSDKUI.md 'FCSDK UI')
+[FCSDKUI](https://github.com/lyviss-app/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/FCSDKUI.md 'FCSDK UI')
 
-[VoIP Calls and CallKit](https://github.com/cbajapan/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/VoIPCallsAndCallKit.md 'VoIP Calls And CallKit')
+[VoIP Calls and CallKit](https://github.com/lyviss-app/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/VoIPCallsAndCallKit.md 'VoIP Calls And CallKit')
 
-[AED](https://github.com/cbajapan/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/AED.md 'AED Article')
+[AED](https://github.com/lyviss-app/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/AED.md 'AED Article')
 
-[FCSDK Extras](https://github.com/cbajapan/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/FCSDKExtras.md 'FCSDK Extras')
+[FCSDK Extras](https://github.com/lyviss-app/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/FCSDKExtras.md 'FCSDK Extras')
 
-[Migrating from the Legacy SDK](https://github.com/cbajapan/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/MigratingFromLegacySDK.md 'Learn Markdown')
+[Migrating from the Legacy SDK](https://github.com/lyviss-app/fcsdk-ios/blob/main/Sources/SwiftFCSDKiOS/SwiftFCSDKiOS.docc/MigratingFromLegacySDK.md 'Learn Markdown')
 
 ## Swift Package Manager ##
 
@@ -100,7 +100,7 @@ We are happy to introduce *DocC* documentation for SwiftFCSDKiOS. Simply build t
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/cbajapan/swift-fcsdk-ios.git", from: "4.0.0")
+    .package(url: "https://github.com/lyviss-app/swift-fcsdk-ios.git", from: "4.0.0")
 ]
 ```
 
@@ -143,7 +143,7 @@ In order to use our CocoaPod, please follow the following instructions.
 4. Edit the Podfile as indicated below
 
 ```
-source 'https://github.com/cbajapan/swift-fcsdk-ios'
+source 'https://github.com/lyviss-app/swift-fcsdk-ios'
 
 target 'CBAFusion' do
   # Comment the next line if you don't want to use dynamic frameworks
@@ -163,7 +163,7 @@ end
 *If that is the case, please try running the following Pod Commands*
 
 ```
-sudo rm -rf ~/.cocoapods/repos/cbajapan-swift-fcsdk-ios
+sudo rm -rf ~/.cocoapods/repos/lyviss-app-swift-fcsdk-ios
 pod setup
 pod install
 ```
